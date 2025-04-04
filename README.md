@@ -99,7 +99,8 @@ API: OpenWeatherMap
 
 👨‍💻 Sumit Kushwah
 📍 Indore, India
-🔗 GitHub | LinkedIn
+🔗 GitHub https://github.com/Sumit-Kushwah-786
+🔗 LinkedIn www.linkedin.com/in/sumit-kushwah-3847b5315
 
 # ⭐ Show Your Support
 
